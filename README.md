@@ -1,7 +1,7 @@
 # flutter_weather_app
 
 ## Description
-Cette application Flutter récupère et affiche les données météorologiques en temps réel pour un emplacement spécifié basé sur les coordonnées géographiques (latitude et longitude). 
+Cette application Flutter, pour appareil Android, récupère et affiche les données météorologiques en temps réel pour un emplacement spécifié basé sur les coordonnées géographiques (latitude et longitude). 
 Les utilisateurs peuvent également sélectionner un intervalle de temps pour afficher les données météorologiques de cette période.
 
 ## Fonctionnalités
@@ -18,7 +18,13 @@ Les utilisateurs peuvent également sélectionner un intervalle de temps pour af
 - L'utilisateur peut sélectionner une plage de dates pour récupérer les données météorologiques pour une période spécifique.
 
 ## Captures d'écran
+
+   Home Page                  Current Weather Page
+
 ![alt text](image.png)    ![alt text](image-1.png)    
+
+ Date Range Select Page         Forecast Page
+
 ![alt text](image-2.png)    ![alt text](image-3.png)
 
 ## Pour Commencer
