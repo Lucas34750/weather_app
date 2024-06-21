@@ -18,7 +18,8 @@ Les utilisateurs peuvent également sélectionner un intervalle de temps pour af
 - L'utilisateur peut sélectionner une plage de dates pour récupérer les données météorologiques pour une période spécifique.
 
 ## Captures d'écran
-![alt text](image.png)
+![alt text](image.png)    ![alt text](image-1.png)    
+![alt text](image-2.png)    ![alt text](image-3.png)
 
 ## Pour Commencer
 

@@ -13,7 +13,7 @@ class Forecast extends StatelessWidget {
     var ws=WeatherService();
     return Scaffold(
       appBar: AppBar(
-        title: Center(child :Text('${city.name} Forecast',style: const TextStyle(fontSize: 20,color: Colors.white,fontWeight: FontWeight.bold),)),
+        title: Center(child :Text('${city.name} Forecast         ',style: const TextStyle(fontSize: 20,color: Colors.white,fontWeight: FontWeight.bold),)),
         backgroundColor: const Color.fromARGB(255, 15, 0, 146),
       ),
       backgroundColor:  const Color.fromARGB(255, 15, 0, 146),
