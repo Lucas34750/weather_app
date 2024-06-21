@@ -3,7 +3,6 @@ import 'package:flutter_weather_app/models/city.dart';
 import 'package:flutter_weather_app/pages/detail/forecast/weathertab.dart';
 import 'package:flutter_weather_app/services/weatherservice.dart';
 
-// ignore: must_be_immutable
 class Forecast extends StatelessWidget {
   final DateTimeRange dateTimeRange;
   final City city;
@@ -14,7 +13,7 @@ class Forecast extends StatelessWidget {
     var ws=WeatherService();
     return Scaffold(
       appBar: AppBar(
-        title: Text('${city.name}Forecast',style: const TextStyle(fontSize: 12,color: Colors.white),),
+        title: Center(child :Text('${city.name} Forecast',style: const TextStyle(fontSize: 20,color: Colors.white,fontWeight: FontWeight.bold),)),
         backgroundColor: const Color.fromARGB(255, 15, 0, 146),
       ),
       backgroundColor:  const Color.fromARGB(255, 15, 0, 146),
