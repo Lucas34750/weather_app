@@ -47,3 +47,37 @@ Forecast Page
 1. Clonez le dépôt :
    ```bash
    git clone https://github.com/Lucas34750/weather_app.git
+
+2.  Naviguez dans le répertoire du projet :
+    ```bash
+    cd weather_app
+
+
+3.  Installez les dépendances :
+    ```bash
+    flutter pub get
+
+
+## Exécution de l'Application ##
+
+1. Pour exécuter l'application sur un émulateur ou un appareil physique, assurez-vous qu'un émulateur est en cours d'exécution ou qu'un appareil est connecté.
+
+2.  Utilisez la commande suivante pour démarrer l'application :
+    ```bash
+    flutter run
+
+
+## Utilisation ##
+
+1.  Entrez les coordonnées de latitude et de longitude dans les champs de texte fournis.
+
+2.  Appuyez sur le bouton 'Rechercher' pour récupérer et afficher les données météorologiques en temps réel.
+
+3.  Appuyez sur le bouton 'Weather Forecast' pour sélectionner une plage de dates afin d'obtenir les données météorologiques passées et/ou prévisionnelles.
+
+## Dépendances ##
+
+-- 'open_meteo': Utilisé pour obtenir toutes les données météorologiques depuis l'API Open-Meteo.
+
+-- 'country_flags': Utilisé pour obtenir les Icons représentant les drapeaux des pays dans la liste 'popular'
+
