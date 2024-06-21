@@ -19,13 +19,24 @@ Les utilisateurs peuvent également sélectionner un intervalle de temps pour af
 
 ## Captures d'écran
 
-   Home Page                  Current Weather Page
+Home Page                  
 
-![alt text](image.png)    ![alt text](image-1.png)    
+![alt text](image.png)    
 
- Date Range Select Page         Forecast Page
 
-![alt text](image-2.png)    ![alt text](image-3.png)
+Current Weather Page
+
+![alt text](image-1.png)    
+
+
+Date Range Select Page
+
+![alt text](image-2.png)   
+
+
+Forecast Page
+
+![alt text](image-3.png)
 
 ## Pour Commencer
 
